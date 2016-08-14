@@ -1,0 +1,1104 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass scrartcl
+\begin_preamble
+\usepackage{caption}
+\captionsetup[figure]{name=Figura}
+\addtokomafont{disposition}{\rmfamily
+\renewcommand{\contentsname}{Indice}
+}
+\usepackage{microtype}
+\def\arraystretch{1.5}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman lmodern
+\font_sans lmss
+\font_typewriter lmtt
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Atlante urbano delle aree dismesse di Monza
+\end_layout
+
+\begin_layout Author
+a cura di Altragorà
+\begin_inset Newline newline
+\end_inset
+
+
+\shape italic
+\size normal
+con un saggio di Francesca Rausa
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Ringraziamenti
+\end_layout
+
+\begin_layout Standard
+gfg
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Prefazione
+\end_layout
+
+\begin_layout Standard
+bvbv
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Introduzione
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{section}{Introduzione}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+Le schede di approfondimento
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{part}{Le schede di approfondimento}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+L'ospedale (vecchio) Umberto I
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+mancano foto
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="8cm">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Indirizzo
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+via Solferino 16
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Collocazione
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Centro abitato
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Tipologia
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Sanità - Ospedale
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Epoca
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+XIX secolo
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="3" alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Localizzazione catastale
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+foglio
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+71
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+particelle
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+55 (parte), 56, 57, 58, 59, 60, 61, 63, 97, 98, 99, 100, 101, 102, 103,
+ 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118,
+ 119, 131,135
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Condizione giuridica
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+proprietà Ente Pubblico Territoriale, Regione Lombardia
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph*
+Intervista a Rolando Villa
+\end_layout
+
+\begin_layout Standard
+Rolando Villa diventa capo archivista nell’Ufficio Archivio Protocollo dell’Ospe
+dale di Monza dopo la morte improvvisa del Capo Ufficio precedente.
+ 
+\end_layout
+
+\begin_layout Standard
+“Gestire quell’Ufficio all’ospedale era complesso ma soddisfacente: significava
+ che in un anno l’archivista doveva protocollare a mano circa 30’000 missive
+ in arrivo e altrettante in partenza.
+ Infatti doveva occuparsi della gestione dell’archivio storico, di quello
+ relativo alla struttura ospedaliera (che al tempo aveva 1100 posti letto),
+ della Pia casa di ricovero e dell’Opera Pia Bellani”.
+\end_layout
+
+\begin_layout Paragraph*
+Gli edifici e la struttura
+\end_layout
+
+\begin_layout Standard
+L’archivio è al primo piano del palazzo di amministrazione, le finestre
+ guardano il giardino interno e dominano i vari padiglioni di cui è costituito
+ l’ospedale.
+ 
+\end_layout
+
+\begin_layout Standard
+L’edificazione del complesso fu possibile grazie ad una donazione del re
+ Umberto I, che nel 1890 finanziò un nuovo ospedale che sostituisse il vecchio
+ nosocomio: la struttura doveva adattarsi alle nuove scoperte in campo medico,
+ separando i pazienti a seconda della ragione di ricovero.
+ 
+\end_layout
+
+\begin_layout Standard
+Così nel Novembre 1896, da disegno dell’architetto Balossi, l’Ospedale viene
+ inaugurato e nacquero i vari padiglioni che vediamo oggi, collegati fra
+ loro da passerelle coperte.
+\end_layout
+
+\begin_layout Standard
+Un esempio è il padiglione Vittorio Emanuele III (Via Solferino 17), realizzato
+ a sinistra dell’ospedale, che era originariamente riservato agli operai
+ tubercolotici -ora è sede del Dipartimento Provinciale dell’ARPA (Agenzia
+ Regionale per l’Ambiente).
+\end_layout
+
+\begin_layout Standard
+In un secondo momento sui singoli reparti, sono stati costruiti i sopralzi
+ e nei centrali fu realizzata l’emoteca.
+ Il signor Villa ci racconta del Professor Bestetti, primario di immunoematologi
+a del centro trasfusionale, che era noto poichè lasciava la maggior parte
+ del proprio stipendio all’ospedale per lo sviluppo del centro di ematologia.
+ 
+\end_layout
+
+\begin_layout Standard
+Una storia simile a quella di un signore di Brugherio, Sangalli «Susciasang»
+ che dedicò la propria vita al centro trasfusionale dell’Ospedale, famoso
+ per essere l’unico ospedale in tutta la Lombardia ad avere sempre sangue
+ a qualsiasi ora e servire le cliniche di tutta Monza e circondario.
+\end_layout
+
+\begin_layout Paragraph*
+L’aumento della richiesta e la costruzione di nuovi edifici
+\end_layout
+
+\begin_layout Standard
+Nel corso degli anni è stato necessario realizzare nuove edificazioni: fra
+ queste un prefabbricato per il reparto di pediatria, poiché il servizio
+ era ancora incorporato in medicina generale e il nuovo edificio avrebbe
+ permesso di edificare pediatria patologica e pediatria 1° e 2°, a seconda
+ dell’età del bambino.La chirurgia e la ginecologia stavano in due edifici
+ separati, gli altri ospitavano solo le degenze, i pazienti cronici.
+ 
+\end_layout
+
+\begin_layout Standard
+Nel padiglione in centro a sinistra è stata realizzata al piano superiore
+ immunoematologia con centro trasfusionale e sotto nursery e maternità.
+ Con altri sopralzi venne creato spazio per chirurgia d’urgenza, chirurgia
+ toracica e in un secondo tempo ginecologia.
+ 
+\end_layout
+
+\begin_layout Standard
+L’ospedale vecchio da una capienza di 208 posti letto iniziali arrivò ad
+ averne 1100.
+\end_layout
+
+\begin_layout Standard
+Quando alla mattina della giornata del malato venivano aperti i cancelli,
+ la scena era di una marea brulicante di persone, che rendeva difficile
+ passare dalla piazza antistante.
+\end_layout
+
+\begin_layout Paragraph*
+Le pensiline all'aperto
+\end_layout
+
+\begin_layout Standard
+I collegamenti fra un corpo e l’altro erano costituiti da pensiline aperte,
+ anche verso le sale operatorie! Prima dell’espansione, quando la capienza
+ totale era di 208 posti letto, vi erano in totale un chirurgo ed un ginecologo,
+ quindi chi veniva operato doveva andare in uno specifico edificio passando
+ in barella all’aperto.
+ «Il rischio era dunque che l’operazione andasse bene, ma che il paziente
+ morisse di polmonite!».
+ 
+\end_layout
+
+\begin_layout Paragraph*
+Le diverse ipotesi di espansione a partire dagli anni ‘30
+\end_layout
+
+\begin_layout Standard
+Per alleggerire la parte centrale delle varie sale operatorie, dalla seconda
+ metà degli anni ‘30, si inizia a progettare la costruzione delle chirurgie
+ nella parte retrostante.
+ Tale area nel 1936 venne infatti sequestrata alla famiglia Cappelletti
+ con un progetto dell’architetto Balossi, che tuttavia non vide mai la luce,
+ in quanto si decise di realizzare direttamente il nuovo ospedale.
+ Nell’area sequestrata, la zona adiacente al canale Villoresi, alla fine
+ furono realizzati dei parcheggi.
+ Dietro l’Ospedale Vecchio invece permane ancora la Pia Casa di Ricovero.
+\end_layout
+
+\begin_layout Paragraph*
+Le piante organiche dell’Ospedale
+\end_layout
+
+\begin_layout Standard
+Per secoli la pianta organica dell’ospedale di Monza, prima della costruzione
+ dell’Ospedale Umberto I, era di poche persone, 4 o 5: due infermieri, un
+ capo infermiere, un chirurgo ed un aiuto chirurgo.
+ Una figura chiave era quella di chi gestiva la farmacia interna all’Ospedale,
+ «che doveva rimanere sempre a disposizione, dall’Ave maria mattutino...fino
+ a mezzanotte».
+ 
+\end_layout
+
+\begin_layout Standard
+«Fino all’inizio secolo, era normale che vi fosse un solo chirurgo, che
+ quando doveva operare un paziente, la sera prima chiedesse alla “Bruna”
+ (così veniva chiamato chi lavorava alla camera mortuaria) di preparare
+ un cadavere per esercitarsi su quell’operazione specifica».
+\end_layout
+
+\begin_layout Paragraph*
+La costruzione dell’Umberto I, quando gli industriali “brigàvan”
+\end_layout
+
+\begin_layout Standard
+I terreni delle Opere Pie esistenti a fine ‘800 risultavano non sufficienti
+ per il progetto del nuovo (per allora) ospedale.
+ Come già detto il progetto fu finanziato dal Re, ma i lavori non iniziarono
+ fino a che anche gli industriali non vollero contribuire di tasca propria,
+ nel 1894.
+\end_layout
+
+\begin_layout Standard
+La storia dell’Ospedale Umberto I rimarrà legata per tutta la propria vita
+ alle donazioni degli industriali e dei Monzesi illustri ed abbienti, tanto
+ che una delle espressioni dialettali più autenticamente monzesi “Brigà”,
+ ovvero pagare, si vuole derivi dal Commendatore Brigatti, conosciuto per
+ la generosità nel pagare le varie spese ordinarie necessarie alla vita
+ quotidiana dell’Ospedale.
+\end_layout
+
+\begin_layout Paragraph*
+La nascita delle USL e l’inizio della dismissione dell’Ospedale
+\end_layout
+
+\begin_layout Standard
+Il passaggio dall’ente ospedaliero alle USL ha comportato che il presidente
+ dell’ospedale, si spostasse come presidente della USL per trasferire “non
+ solo le funzioni ma anche il patrimonio” dell’Ente Ospedaliero.
+ 
+\end_layout
+
+\begin_layout Standard
+Alla fine l’Ospedale venne però stralciato dal trasferimento in quanto venne
+ dichiarato Istituto a carattere scientifico, assieme ad altri 6 ospedali
+ lombardi.
+ 
+\end_layout
+
+\begin_layout Standard
+Nell’Aprile del ‘63 viene posata la prima pietra dell’Ospedale Nuovo, mentre
+ nel frattempo iniziava la lenta e graduale dismissione dell’Ospedale Umberto
+ I.
+ Comincia così l’ultimo “trasloco” dell’Ospedale di Monza, dopo che nel
+ corso dei secoli si era già mosso fra la casa del Santo (San Gerardino),
+ la Piazza del Mercato, la chiesa di San Gerardo, forse anche il tribunale.
+\end_layout
+
+\begin_layout Standard
+L’ospedale era un Ente Autonomo Locale, fin quando nel 1923 furono istituiti
+ gli Eca, Enti Comunali di Assistenza, e con Mussolini parte dell’archivio
+ venne trasferito in comune -dov’è ancora giacente-, dando la gestione dell’ente
+ ospedaliero al Comune.
+ Sui terreni dell’ospedale Mussolini ha poi voluto istituire la casa di
+ riposo Villa Serena.
+ 
+\end_layout
+
+\begin_layout Standard
+Con le prime leggi di riforma del 1974, si è cominciato a pensare di accorpare
+ per diminuire le spese: con un decreto della regione Lombardia, Villa Serena
+ è stato proclamato Ospedale lungo-degenziale, “Ente” insieme all’ospedale
+ di Lissone, (nato dall’autotassazione dei lissonesi).
+\end_layout
+
+\begin_layout Paragraph*
+La situazione oggi
+\end_layout
+
+\begin_layout Standard
+La sovrintendenza archivistica ha vietato di toccare l’ospedale in quanto
+ monumento storico, espressione architettonica neoclassica.
+ 
+\end_layout
+
+\begin_layout Standard
+A conferma di ciò, la sentenza di terzo grado del ricorso al Tar fatto dai
+ proprietari, vieta che si intervenga rovinando il patrimonio architettonico.
+ Anche i pali in ghisa che sostengono le pensiline sono unici, così come
+ la statua di Umberto I con lo stemma Sabaudo.
+\end_layout
+
+\begin_layout Standard
+Oggi la struttura è utilizzata parzialmente: su via Solferino il padiglione
+ Brigatti per radiologia, prelievi, cardiologia; dall’altra parte della
+ facciata neoclassica l’Assessorato ai Lavori Pubblici e, fino a qualche
+ anno fa, anche il padiglione D, dove c’era un corso di laurea dell’università
+ Bicocca, che ora è dismesso.
+ 
+\end_layout
+
+\begin_layout Standard
+In altre sezioni ci sono state le associazioni dei Carabinieri e quella
+ della Croce Rossa, tuttavia nessuno è mai intervenuto per restauri nella
+ struttura generale.
+ 
+\end_layout
+
+\begin_layout Standard
+L’archivio è stato riordinato per materia, nonostante il signor Villa avesse
+ già fatto un inventario.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+L'ex Civica Scuola Serale Artigiana Paolo Borsa
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part*
+The city of values
+\begin_inset Newline newline
+\end_inset
+
+
+\shape italic
+\size normal
+di Francesca Rausa
+\shape default
+\size default
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{part}{The city of values}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The urban situation of a population is strictly linked to the beliefs and
+ culture of the community.
+ The two are interdependent and interrelated as none of the two could transcend
+ the other.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement I
+overhang 0in
+width "0cm"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename 1407_16125918715.jpg
+	lyxscale 10
+	scale 22
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Laugier Essai sur l'Architecture, frontispiece by C.
+ Eisen
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Anthony Vidler, in his article, points out the first typology of architecture
+ as a one directly inspired to nature, “imitative of the fundamental order
+ of Nature itself”, which was reproduced with the filter of ideal perfect
+ geometry; Laugier for example, says that the city resembles a forest.
+\end_layout
+
+\begin_layout Standard
+Specifically, the first kind of shelter ever used by man of which we have
+ witness was the cave: not only a place to take rest and refuge from the
+ external environment, but also a place where to exercise beliefs and rituals
+ linked to the basic needs.
+ In fact, the motives that drove man toward the worship of nature were mainly
+ survival and food, together with the fear of death and the celebration
+ of it.
+ This hasn’t change through all these ages: our necessities are always the
+ same, even if, in particular in Western countries, some of them are more
+ complicated and some others are induced by the society condition (societal
+ environment), that continues creating illusions and fostering unreal examples.
+\end_layout
+
+\begin_layout Standard
+Architecture developed from a direct imitation of nature: columns resemble
+ trees, for instance.
+ Pyramids are an example of how an extremely organised society as the Egyptian
+ was able to realise such a magnificent structure due only to the worshipping
+ of Deities, as we know that the Pharaoh was believed to be in close contact
+ with Gods.
+\end_layout
+
+\begin_layout Standard
+In the Grecae polis the architecture was dominated by the laws of geometry.
+ Temples were resized -compared to Egypt architecture- because they were
+ done and used by men, but still, they were the most important and imposing
+ buildings and had played a crucial role for the community inhabiting the
+ city.
+ They were places of exercise of religion, but they were accompanied by
+ voids in the urban pattern with a specific role, i.e.
+ the setting of the most important discussions and political confrontations.
+ Although the polis is commonly described as the first democratic organisation,
+ it can be instead delineated as an elitist democracy, as we know that many
+ inhabitants weren’t taking part to important decisions, whereas the rituals
+ in these cultural and religious places were accessible to anyone.
+ People worshipped Gods as a natural behaviour, asking for mercy and prosperity,
+ continuing to celebrate death.
+\end_layout
+
+\begin_layout Standard
+The european city as well developed around these two poles, secular and
+ religious.
+ In the medieval city the main streets were going from the political and
+ religious centres to the external walls, and residential parts developed
+ all around as a consequence.
+ Graham Shane tells us that Foucault detects two tendencies in each heterotopy,
+ a compensatory and an illusory side: this is clearly visible in this poles
+ that have a spiritual dimension – an illusion – and not only in the european
+ ones; in fact Foucault cites the Islamic hammam, the Jewish bath houses
+ and the Christian baptistery.
+\end_layout
+
+\begin_layout Standard
+Being composed of a part of deviance-suppression codes and one of utopian
+ illusion codes, these places are definitely Heterotopies of Crisis, the
+ first kind pointed out by Shane.
+ They can be considered as “
+\shape italic
+sacred or forbidden places reserved for individuals who are in a state of
+ crisis in relation to the society in which they live
+\shape default
+”.
+\end_layout
+
+\begin_layout Standard
+Also Renaissance palaces, attesting the new cultural setting, i.e.
+ the rising of the bourgeoise, are considered an heterotopy by Shane, in
+ the action of miniaturising and mirroring the society: “
+\shape italic
+the ideal beauty remained a self-closing system nested inside another such
+ system
+\shape default
+”.
+\end_layout
+
+\begin_layout Standard
+With the conquest of reason, during the Enlightenment, mankind started to
+ impose in a stronger way his rules on nature, recognising and reproducing
+ its shapes thanks to the intellect and the instruments and tools he was
+ able to produce.
+ Laugier, in fact, says that the forest we spoke about before needed to
+ be tamed and brought to a rational order by means of the gardener’s art:
+ the Garden city was the perfect model in the late eighteenth century.
+ A rational order dominated over the layout of the city.
+ Man was the maker of the world, but also builder/smith of the instruments
+ from which the world was built, as Frampton tells us “
+\shape italic
+the homo faber is artificer and tool-maker
+\shape default
+”; this till fabrication itself disappeared into the product and became
+ an end in itself “
+\shape italic
+since pure science was not interested in the appearance of objects, but
+ in the capacity to reveal the intrinsic structure lying behind all appearance
+\shape default
+”.
+ From the Renaissance, man separated from the material fabrication of its
+ art, distinguishing himself from the craftsman and practicing a complete
+ intellectual activity, followed only in a second moment by a material act.
+ Frampton brings Brunelleschi as one of the main examples of a man of invention.
+ The scientific field was the most important during the Renaissance and
+ from this period on it started to condition and dominate arts.
+\end_layout
+
+\begin_layout Standard
+After the Second Industrial revolution the society changed entirely, the
+ values that characterised european culture shifted on a scientific plane:
+ the new precise and efficient machines substituted the classical trinity
+ of commodity, firmness and delight.
+ These machines were complete, sealed and autonomous processes, closed to
+ the environment.
+ 
+\end_layout
+
+\begin_layout Standard
+These characteristics are clearly visible in architecture, since, as Vidler
+ asserts “
+\shape italic
+architecture was now equivalent to the range of mass-production objects
+\shape default
+”, the elements of the classical trinity were substituted by economy, modernity
+ and purity.
+ The building became a machine in itself, capable of satisfying the needs
+ of the population, driven by economics.
+\end_layout
+
+\begin_layout Standard
+In this period, till the rising of what Vidler calls Third Typology, buildings
+ reflected the new tendencies and beliefs spread throughout the whole population.
+ They’re based mainly on a scientific approach on nature, since Darwin’s
+ studies on species in 1859, on optimistic definitions and calculations
+ on reality: man believed he was able to have finally found himself and
+ the capability to define its role on earth.
+ This control was exercised on nature and on the places he lived in, buildings
+ became sealed machines, complete and aiming to perfection in precision.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement I
+overhang 0in
+width "0pt"
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename garden_city_movementr.jpg
+	lyxscale 50
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Sir Ebenezer Howard's Garden City Plan 1902
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Tom Schumacher says that “
+\shape italic
+Modern architecture promised a utopia fashioned after the machine
+\shape default
+”: the building is seen as a body with life of its own, with no references
+ to the economic conditions, use or culture around it.
+ According to the author’s opinion, the general application of the principle
+ of sealed building operated during the modern period is incorrect as not
+ applied specifically.
+ Modernist ignored all those constraints imposed by the context, both concerning
+ volumes already present but also urban voids.
+\end_layout
+
+\begin_layout Standard
+Foucault talks about Heterotopies of deviance (what Shane calls H2) as crucial
+ instruments of change making the modernisation of society possible.
+ People in jail were corrected to behave in a socially accepted manner,
+ studied to be understood, hoping that “
+\shape italic
+these rigid rules and sequencing would become ingrained in the inmate’s
+ psyche, reforming his values and work habits
+\shape default
+”.
+ Dominating actors were imposing their values to the society, confining
+ those who chose not to follow their leads and acting psychologically to
+ correct them.
+ A series of rules established by the moral beliefs of the powerful ones
+ were imposed as absolute in these heterotopies, and from these spaces to
+ the whole city.
+\end_layout
+
+\begin_layout Standard
+The urban setting is the Cine Città, in Shane’s opinion, is ordering and
+ sequencing urban functions in enclaves connected with efficient transportations.
+ The Panopticon is a clear example of heterotopy as it miniaturises, mirrors
+ and reverse the dispersive characteristics of the Cinecittà being closed,
+ compressed and centrally controlled.
+ The skyscraper directly derives from this jail, as it segregates its multiple
+ functions along the vertical armature.
+\end_layout
+
+\begin_layout Standard
+The optimistic modern approach led to a mechanism of continuous mass consumption
+: Frampton mentions Arendt reflections on mass society, as she recognises
+ that the rise of the social impoverished private and public life, breaking
+ down all shelters.
+ 
+\end_layout
+
+\begin_layout Standard
+Those beliefs strongly related to science were eventually abandoned and
+ a huge net of new ones was introduced in the society.
+ None of them was strong enough to permeate the whole culture as the use
+ of illusions.
+ Technologies have always been used to produce instruments and complex structure
+s and it is true that their use in architecture underwent a fast development,
+ but in fact they cannot be considered as values and beliefs.
+ 
+\end_layout
+
+\begin_layout Standard
+Heterotopies of Illusion are the third category Shane talks about, where
+ illusion dominates on deviance.
+ Through illusions, dominating actors can regulate “
+\shape italic
+values and images in a urban system manipulating the icons within communication
+ systems
+\shape default
+”: this kind of heterotopy, so described, is clearly an evolution of the
+ one of deviance, where citizens were conscious of being manipulated, though,
+ but with a more subtle imposition of values and principles through illusions.
+\end_layout
+
+\begin_layout Standard
+The process that led human being to identify himself or herself in the reality
+ he/she lived in in this last heterotopy was mechanised.
+ Lacan’s theory of the 
+\shape italic
+mirror of society
+\shape default
+, taken by Freud, described individuality as the act of distinguishing from
+ the others with feedback mechanisms as the family.
+\end_layout
+
+\begin_layout Standard
+“
+\shape italic
+Heterotopias of illusion allow the creation of virtual, mechanised mirror-spaces
+, embedded networks of communication
+\shape default
+”.
+\end_layout
+
+\begin_layout Standard
+Instruments introduced by man himself led to a mechanisation of reality
+ seen through optical systems, creating cinemas and television, later on
+ diffused not only in public spaces, boulevard and theatres but also in
+ the domestic walls.
+ The plagiarism of the world of values and images started acting directly
+ in every house.
+ Gilles Deleuze attacks the excessive automatism of this kind of society
+ that allows too much communication, surveillance and control on public
+ opinion.
+ 
+\end_layout
+
+\begin_layout Standard
+The city built during Modernism is transformed, according to Deleuze, in
+ a set of conceptual networks and constructions called rhizomes: a self-organisi
+ng structure with different shapes and functions according to the environment
+ and the needs.
+ The rhizome represents the heterotopy of illusion, hosting multiple actors.
+ 
+\end_layout
+
+\begin_layout Standard
+Heterotopies of illusion are regulated by the system of production and consumpti
+on, joined with the communication systems, developing in shopping malls,
+ departments store and boulevards but also in private houses.
+ As they are changing really quickly, according to dominant actors of society,
+ their rhizomic structure lets this fast change happen and there is no time
+ enough for any value to be rooted inside a culture.
+ 
+\end_layout
+
+\begin_layout Standard
+Only when the organisation is not imposed by dominant actors, but organised
+ from the bottom up, as in Christiania in Copenhagen, it is possible to
+ produce and raise strong values as respect, love for nature and for the
+ human being itself.
+ These values were completely forgotten in the TeleCittà, in favour of economica
+l progress, disregarding history and ideals of beauty and community.
+\end_layout
+
+\end_body
+\end_document
