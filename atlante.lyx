@@ -200,7 +200,7 @@ L'ospedale (vecchio) Umberto I
 status collapsed
 
 \begin_layout Plain Layout
-mancano foto
+mancano foto.inserirle? Sicuramente collocazione
 \end_layout
 
 \end_inset
@@ -212,11 +212,11 @@ mancano foto
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="3">
 <features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top" width="8cm">
+<column alignment="left" valignment="top" width="3.3cm">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="7cm">
 <row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -227,7 +227,7 @@ Indirizzo
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -236,10 +236,17 @@ via Solferino 16
 
 \end_inset
 </cell>
-<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell multirow="3" alignment="left" valignment="middle" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
+\begin_inset Graphics
+	filename ubicazOsp.png
+	lyxscale 10
+	scale 13
+
+\end_inset
+
 
 \end_layout
 
@@ -247,7 +254,7 @@ via Solferino 16
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -258,7 +265,7 @@ Collocazione
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -267,7 +274,7 @@ Centro abitato
 
 \end_inset
 </cell>
-<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -278,7 +285,7 @@ Centro abitato
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -289,7 +296,7 @@ Tipologia
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -298,7 +305,7 @@ Sanità - Ospedale
 
 \end_inset
 </cell>
-<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -309,7 +316,7 @@ Sanità - Ospedale
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -320,7 +327,7 @@ Epoca
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -329,7 +336,7 @@ XIX secolo
 
 \end_inset
 </cell>
-<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -340,7 +347,7 @@ XIX secolo
 </cell>
 </row>
 <row>
-<cell multirow="3" alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
+<cell multirow="3" alignment="left" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -351,16 +358,18 @@ Localizzazione catastale
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 foglio
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -371,7 +380,7 @@ foglio
 </cell>
 </row>
 <row>
-<cell multirow="4" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -380,16 +389,18 @@ foglio
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
 particelle
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -402,7 +413,7 @@ particelle
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -413,7 +424,7 @@ Condizione giuridica
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -703,6 +714,423 @@ L’archivio è stato riordinato per materia, nonostante il signor Villa avesse
 
 \begin_layout Section
 L'ex Civica Scuola Serale Artigiana Paolo Borsa
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="8" columns="3">
+<features rotate="0" tabularvalignment="middle">
+<column alignment="left" valignment="top" width="3.3cm">
+<column alignment="left" valignment="top">
+<column alignment="left" valignment="top" width="0pt">
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Indirizzo
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+via Boccaccio
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="left" valignment="middle" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ubicazOsp.png
+	lyxscale 10
+	scale 13
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Collocazione
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Centro storico abitato
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Tipologia
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Educazione - Scolastico
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Epoca
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+XIX secolo
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="3" alignment="left" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Localizzazione catastale
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+foglio
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+7/1960
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell multirow="4" alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+particelle
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+54
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Condizione giuridica
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+proprietà Regione Lombardia e Comune di Monza
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+Condizione strutturale
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none" width="12cm">
+\begin_inset Text
+
+\begin_layout Plain Layout
+pianta a C, due piani, muri perimetrali in laterizio e ciottoli di fiume,
+ solai e tetto a quattro falde collegate in coppi di laterizio.
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph*
+La storia
+\end_layout
+
+\begin_layout Standard
+La storia dell’edificio Borsa risale al 1802, quando l’architetto di stato
+ Luigi Canonica si prese carico della costruzione di un parco e riserva
+ di caccia nei pressi della Villa Reale.
+\end_layout
+
+\begin_layout Standard
+I piccoli interventi di manutenzione negli anni non sono bastati per fare
+ sì che l’edificio potesse continuare ad essere abitato: nel 2011 fu dichiarato
+ completamente inagibile, e gli studenti del Liceo Artistico Nanni Valentini
+ furono costretti a spostarsi nelle attuali sedi.
+ Ora il liceo ne rivendica la ristrutturazione e riabilitazione a struttura
+ scolastica.
+ 
+\end_layout
+
+\begin_layout Standard
+Guido Soroldoni, preside della scuola dal 2006, in proposito:
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+“Sarebbe uno schiaffo ai cittadini di Monza se questo edificio fosse sfruttato
+ da qualcuno di esterno rispetto alla scuola.
+ Infatti uno dei lasciti riguardo la Villa Reale era quello di utilizzare
+ gli spazi ai fini di una scuola di indirizzo artistico”.
+\end_layout
+
+\begin_layout Standard
+Le scuole artistiche instauratesi nella Villa nel corso del Novecento hanno
+ infatti una lunga storia.
+ 
+\end_layout
+
+\begin_layout Standard
+Con il Regio Decreto del 1920, i Savoia affidarono la Villa al Consorzio
+ formato dai Comuni di Milano e di Monza e dalla Società Umanitaria, e destinaro
+no la Villa a promuovere le esposizioni di Arte applicata all’industria.
+ La Società Umanitaria ebbe un ruolo fondamentale poi nella trasformazione
+ della Villa in luogo di esposizione ed educazione artistica.
+ 
+\end_layout
+
+\begin_layout Standard
+Nel primo dopo guerra, precisamente nel 1922, l’Istituto Superiore per le
+ Industrie Artistiche ISIA venne fondato nell’ala meridionale della Villa
+ Reale, che era stata ceduta al demanio statale dai Savoia, dando così vita
+ ad una grande innovazione in campo artistico monzese.
+\end_layout
+
+\begin_layout Standard
+La scuola, tramite l’artigianato, formava dei veri e propri professionisti
+ in varie materie (plastica decorativa, ricamo, tessitura, decorazione,
+ composizione, ferro battuto e tante altre specialità), le cui opere venivano
+ esposte a partire dal 1923, durante le Biennali di arti decorative alla
+ Villa, che nel 1930 divennero Triennali, premessa dell’attuale Triennale
+ di Milano.
+ A causa di mancanza di finanziamenti l’istituto venne chiuso nel 1943.
+\end_layout
+
+\begin_layout Standard
+La storia dell’ISA, invece inizia più tardi, nel 1967, quando l’Istituto
+ Statale d’Arte nacque da un gruppo di artisti e progettisti che, ispirandosi
+ alle triennali monzesi, fondarono una scuola di arti applicate, sita negli
+ stessi spazi della Villa.
+ 
+\end_layout
+
+\begin_layout Standard
+L’edificio Borsa, però, vive la sua storia separatamente: nel 1869, grazie
+ a donazioni private e ad un piccolo sussidio comunale, venne fondata la
+ Scuola Comunale pubblica e gratuita di disegno e decorazione, la Civica
+ Scuola Serale Artigiana Paolo Borsa.
+ Una delle prime scuole per operai aveva aperto a Monza.
+ 
+\end_layout
+
+\begin_layout Standard
+Nel 1861, Vincenzo Veronelli, presidente della società di mutuo Soccorso
+ scrive alla giunta vigente:
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+«Lo scrivente non crede di poter meglio interpretare lo scopo della fondazione
+ della Società, che estendendo l’istruzione di ogni natura fra il popolo
+ , educando le arti belle, preparandogli una posizione sociale indipendente
+ e svincolata da quell’eterno telaio che logora la vita, che preclude ogni
+ mezzo a risorse e fa dell’operaio un automa».
+\end_layout
+
+\begin_layout Standard
+Dal 1873 fu diretta dal pittore Paolo Borsa da cui poi la scuola prese il
+ nome, che propose alla Giunta Comunale un programma di insegnamento applicato
+ alle arti e all’industria 
+\shape italic
+«ove gli artieri e gli operai non l’arte per l’arte conoscessero, ma dall’arte
+ traessero il buon viatico per la fatica di ogni giorno per cui più belle
+ e più preziosa fiorisse l’opera sudata da mani fatte sapienti ed esperte
+ nelle più semplici e più grandi espressioni della bellezza».
+\end_layout
+
+\begin_layout Standard
+Nel 1980 venne poi annessa alle strutture dell’ISA.
+\end_layout
+
+\begin_layout Paragraph*
+Intervista a Guido Soroldoni
+\end_layout
+
+\begin_layout Standard
+Il Borsa è un edificio che sin dal dopoguerra è stato sede di varie scuole
+ e dagli anni ottanta è entrato a far parte degli spazi del Liceo Artistico
+ Nanni Valentini.
+ Vi si trovavano otto aule, sette curricolari e una per il laboratorio di
+ fotografia.
+ 
+\end_layout
+
+\begin_layout Standard
+Nel 1998 è avvenuto un primo crollo di un cornicione, seguito da quello
+ di una parte del tetto nel 2006, un successivo nel 2007/2008 e un terzo
+ in un’ala non occupata, ma la perizia statica fatta subito dopo, affermava
+ che la parte occupata dalla scuola era ancora fruibile.
+ E’ stato nel 2011 che l’edificio intero venne dichiarato inagibile.
+ Nello stesso anno sono state raccolte 10’000 firme fra i cittadini per
+ richiedere un recupero immediato della struttura, ma ancora oggi non vi
+ è stato intervento.
+ Da allora il numero di studenti è quasi raddoppiato e il liceo necessita
+ di nuovi spazi.
+ 
+\end_layout
+
+\begin_layout Standard
+Ora la scuola affitta un sede in via Magenta che appena soddisfa le esigenze
+ (10/11 aule per oltre 200 studenti).
+ Il prossimo anno sono previsti invece più di 1100 studenti.
 \end_layout
 
 \begin_layout Standard
