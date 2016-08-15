@@ -236,7 +236,7 @@ via Solferino 16
 
 \end_inset
 </cell>
-<cell multirow="3" alignment="left" valignment="middle" leftline="true" usebox="none">
+<cell multirow="3" alignment="left" valignment="middle" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -714,6 +714,16 @@ L’archivio è stato riordinato per materia, nonostante il signor Villa avesse
 
 \begin_layout Section
 L'ex Civica Scuola Serale Artigiana Paolo Borsa
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+mancano foto
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -744,14 +754,14 @@ via Boccaccio
 
 \end_inset
 </cell>
-<cell multirow="3" alignment="left" valignment="middle" leftline="true" usebox="none">
+<cell multirow="3" alignment="left" valignment="middle" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename ubicazOsp.png
+	filename borsaCol.png
 	lyxscale 10
-	scale 13
+	scale 10
 
 \end_inset
 
@@ -961,7 +971,7 @@ Condizione strutturale
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none" width="12cm">
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none" width="10cm">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1134,6 +1144,85 @@ Ora la scuola affitta un sede in via Magenta che appena soddisfa le esigenze
 \end_layout
 
 \begin_layout Standard
+L’ex-Borsa è per circa metà di proprietà del comune di Monza e per l’altra
+ della Regione Lombardia, che l’ha acquistato dal comune di Milano.
+ Non è chiara la ragione per cui il Consorzio della Villa non l’ha preso
+ in considerazione quando ha avviato i lavori di ristrutturazione, l’intervento
+ riguardava solo la parte centrale, senza includere le ali nord e sud.
+ 
+\end_layout
+
+\begin_layout Standard
+Negli stessi anni vi era poi il progetto di Carbonara che prendeva in consideraz
+ione tutto quanto lo spazio della villa ma il preventivo era troppo alto.
+ (ndr: il progetto Carbonara, che ha vinto il bando della regione nel 2006,
+ prevedeva un forte carattere commerciale e privatistico per cui non erano
+ previste finalità culturali o didattiche, funzioni pubbliche alle quali
+ la Villa era prevalentemente destinata, ribadite dall’Atto di cessione
+ del 1996).
+\end_layout
+
+\begin_layout Standard
+Il preside del Liceo Valentini assicura che c’è un progetto, con degli accordi
+ verbali sul rifacimento dell’edificio ora in pezzi.
+ Una parte dell’intervento sarà a carico del comune e una parte a carico
+ della regione, ma la questione non è ben definita ancora: l’enorme iter
+ burocratico e i finanziamenti necessari hanno rallentato tutti i processi.
+\end_layout
+
+\begin_layout Standard
+La recente notizia del Cittadino “Sarà messo in sicurezza” non soddisfa:
+ 
+\shape italic
+«saranno anche tolti gli alberi cresciuti all’interno, ma il fatto è che
+ deve essere ristrutturato».
+ 
+\end_layout
+
+\begin_layout Standard
+Il nocciolo della questione sono quindi i finanziamenti, l’intervento è
+ radicale e complesso poichè l’edificio è rimasto abbandonato a lungo.
+ Potrebbe essere necessaria una ricostruzione totale, o perlomeno lasciando
+ i muri perimetrali e rifacendo tutti gli interni.
+\end_layout
+
+\begin_layout Standard
+Durante gli incontri delle varie componenti della scuola, studenti, genitori,
+ presidenza e vari altri organi, qualche privato si è affacciato chiedendo
+ utilizzi a lui vicini.
+ 
+\shape italic
+«Questo ci preoccupa molto, noi pensiamo che quell’edificio sia la risposta
+ giusta per una scuola in continua crescita.
+ Siamo l’unico liceo artistico statale di Monza, credo che sia necessario
+ conservarlo e che gli vadano attribuiti gli spazi adeguati, per qualità
+ e quantità».
+ 
+\end_layout
+
+\begin_layout Standard
+Un anno dopo la dismissione del Borsa, l’ISA si è trasferito in San Fedele,
+ all’interno del parco; la cosa ha creato non pochi disagi, a partire dalla
+ sua collocazione, irraggiungibile in caso di intemperie, sino al numero
+ di aule, quattro.
+ La sede in via Magenta non è altro che una condizione di ripiego, vi sono
+ otto aule affittate dalla provincia, ma avere una sede così lontana vuol
+ dire creare dei problemi nel far funzionare la scuola al meglio.
+ 
+\end_layout
+
+\begin_layout Standard
+Le ultime notizie riguardo ai finanziamenti risalgono a Febbraio 2016, quando
+ la Giunta ha approvato il programma triennale Opere Pubbliche 2016-2018.
+ Sono 135 i milioni di euro di investimenti per realizzare interventi che
+ vanno dal recupero della scuola ex Borsa, alla manutenzione di istituti
+ e alloggi comunali, passando per la realizzazione di piste ciclabili, la
+ riqualificazione delle piazze cittadine e dei Boschetti reali.
+ Nello specifico all’Ex Borsa sono stati attribuiti oltre sei milioni per
+ recupero e restauro.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -1160,6 +1249,16 @@ status collapsed
 
 \backslash
 addcontentsline{toc}{part}{The city of values}
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+manca bibliografia
 \end_layout
 
 \end_inset
