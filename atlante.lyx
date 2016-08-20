@@ -2,21 +2,18 @@
 \lyxformat 474
 \begin_document
 \begin_header
-\textclass scrartcl
+\textclass book
 \begin_preamble
 \usepackage{caption}
-\captionsetup[figure]{name=Figura}
-\addtokomafont{disposition}{\rmfamily
-\renewcommand{\contentsname}{Indice}
-}
+%\addtokomafont{disposition}{\rmfamily}
 \usepackage{microtype}
 \def\arraystretch{1.5}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
-\language english
-\language_package default
-\inputencoding auto
+\language italian
+\language_package \usepackage[italian]{babel}
+\inputencoding utf8
 \fontencoding global
 \font_roman lmodern
 \font_sans lmss
@@ -36,7 +33,7 @@
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize default
+\papersize a4paper
 \use_geometry false
 \use_package amsmath 1
 \use_package amssymb 1
@@ -51,7 +48,7 @@
 \cite_engine basic
 \cite_engine_type default
 \biblio_style plain
-\use_bibtopic false
+\use_bibtopic true
 \use_indices false
 \paperorientation portrait
 \suppress_date true
@@ -65,7 +62,7 @@
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\quotes_language french
 \papercolumns 1
 \papersides 1
 \paperpagestyle default
@@ -77,6 +74,22 @@
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+frontmatter
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Title
 Atlante urbano delle aree dismesse di Monza
@@ -130,6 +143,21 @@ bvbv
 
 \end_layout
 
+\begin_layout Section*
+Introduzione
+\end_layout
+
+\begin_layout Standard
+intro bla
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset CommandInset toc
 LatexCommand tableofcontents
@@ -146,8 +174,7 @@ LatexCommand tableofcontents
 
 \end_layout
 
-\begin_layout Section*
-Introduzione
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -155,12 +182,16 @@ status collapsed
 
 
 \backslash
-addcontentsline{toc}{section}{Introduzione}
+mainmatter
 \end_layout
 
 \end_inset
 
 
+\end_layout
+
+\begin_layout Chapter
+L'atlante
 \end_layout
 
 \begin_layout Standard
@@ -170,21 +201,12 @@ addcontentsline{toc}{section}{Introduzione}
 
 \end_layout
 
-\begin_layout Part*
+\begin_layout Chapter
 Le schede di approfondimento
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-addcontentsline{toc}{part}{Le schede di approfondimento}
 \end_layout
 
-\end_inset
-
-
+\begin_layout Standard
+bla bla bla
 \end_layout
 
 \begin_layout Standard
@@ -200,7 +222,7 @@ L'ospedale (vecchio) Umberto I
 status collapsed
 
 \begin_layout Plain Layout
-mancano foto.inserirle? Sicuramente collocazione
+mancano foto
 \end_layout
 
 \end_inset
@@ -214,7 +236,7 @@ mancano foto.inserirle? Sicuramente collocazione
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="3.3cm">
 <column alignment="left" valignment="top">
-<column alignment="left" valignment="top" width="7cm">
+<column alignment="left" valignment="top" width="4.8cm">
 <row>
 <cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -243,7 +265,7 @@ via Solferino 16
 \begin_inset Graphics
 	filename ubicazOsp.png
 	lyxscale 10
-	scale 13
+	scale 11
 
 \end_inset
 
@@ -424,7 +446,7 @@ Condizione giuridica
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none" width="7cm">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -732,7 +754,7 @@ mancano foto
 <features rotate="0" tabularvalignment="middle">
 <column alignment="left" valignment="top" width="3.3cm">
 <column alignment="left" valignment="top">
-<column alignment="left" valignment="top" width="0pt">
+<column alignment="left" valignment="top" width="3.9cm">
 <row>
 <cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -761,7 +783,7 @@ via Boccaccio
 \begin_inset Graphics
 	filename borsaCol.png
 	lyxscale 10
-	scale 10
+	scale 9
 
 \end_inset
 
@@ -940,7 +962,7 @@ Condizione giuridica
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="left" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none" width="7.8cm">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -971,7 +993,7 @@ Condizione strutturale
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none" width="10cm">
+<cell multicolumn="1" alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none" width="7.8cm">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1229,7 +1251,7 @@ Le ultime notizie riguardo ai finanziamenti risalgono a Febbraio 2016, quando
 
 \end_layout
 
-\begin_layout Part*
+\begin_layout Chapter
 The city of values
 \begin_inset Newline newline
 \end_inset
@@ -1241,24 +1263,11 @@ di Francesca Rausa
 \shape default
 \size default
 
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-addcontentsline{toc}{part}{The city of values}
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status collapsed
 
 \begin_layout Plain Layout
-manca bibliografia
+completare bibliografia
 \end_layout
 
 \end_inset
@@ -1625,6 +1634,18 @@ Only when the organisation is not imposed by dominant actors, but organised
  human being itself.
  These values were completely forgotten in the TeleCittà, in favour of economica
 l progress, disregarding history and ideals of beauty and community.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintAll"
+bibfiles "ArticoloFra"
+options "bibtotoc,plain"
+
+\end_inset
+
+
 \end_layout
 
 \end_body
