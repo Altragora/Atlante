@@ -107,6 +107,20 @@ con un saggio di Francesca Rausa
 \end_layout
 
 \begin_layout Standard
+\align center
+
+\shape italic
+Distribuito sotto licenza CC BY-NC-SA 3.0 
+\begin_inset Graphics
+	filename by-nc-sa.eu.eps
+	lyxscale 10
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -118,7 +132,12 @@ Ringraziamenti
 \end_layout
 
 \begin_layout Standard
-gfg
+Ringraziamo tutti coloro che hanno speso anche una minima parte del loro
+ tempo per la riuscita di questo progetto.
+ È soprattutto merito loro se dopo un lungo viaggio siamo arrivati alla
+ destinazione, la pubblicazione.
+ In particolare ringraziamo Luca che ci ha spiegato l'uso di alcuni strumenti
+ e Arci Scuotivento che ci ha sostenuti dandoci ospitalità.
 \end_layout
 
 \begin_layout Standard
