@@ -110,7 +110,13 @@ con un saggio di Francesca Rausa
 \align center
 
 \shape italic
-Distribuito sotto licenza CC BY-NC-SA 3.0 
+Distribuito sotto licenza CC BY-NC-SA 3.0
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\shape italic
 \begin_inset Graphics
 	filename by-nc-sa.eu.eps
 	lyxscale 10
@@ -153,21 +159,6 @@ Prefazione
 
 \begin_layout Standard
 bvbv
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-Introduzione
-\end_layout
-
-\begin_layout Standard
-intro bla
 \end_layout
 
 \begin_layout Standard
@@ -225,7 +216,22 @@ Le schede di approfondimento
 \end_layout
 
 \begin_layout Standard
-bla bla bla
+Presentiamo ora le schede di approfondimento di quattro aree al momento
+ dismesse dislocate sul territorio monzese.
+ La scelta è ricaduta su queste perché rappresentano bene l'insieme delle
+ tipologie del dismesso presenti in città.
+ Perciò abbiamo due strutture adibite a servizi, un ospedale e una scuola,
+ una fabbrica e una villa all'interno del Parco.
+ Attraverso l'analisi della storia passata e recente di questi luoghi è
+ possibile ricostruire in un certo senso la storia della città.
+\end_layout
+
+\begin_layout Standard
+Le prime due schede sono in gran parte ricavate da interviste a persone
+ che hanno direttamente vissuto quei luoghi mentre le ultime due sono frutto
+ principalmente di una ricerca bibliografica e storiografica.
+ La diversità dell'approccio ci sembrava interressante per analizzare da
+ diverse angolature spazi diversi.
 \end_layout
 
 \begin_layout Standard
@@ -1261,6 +1267,28 @@ Le ultime notizie riguardo ai finanziamenti risalgono a Febbraio 2016, quando
  riqualificazione delle piazze cittadine e dei Boschetti reali.
  Nello specifico all’Ex Borsa sono stati attribuiti oltre sei milioni per
  recupero e restauro.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Villa Mirabellino
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+L'ex cotonificio Fossati-Lamperti
 \end_layout
 
 \begin_layout Standard
