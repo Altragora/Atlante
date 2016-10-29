@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass book
 \begin_preamble
 \usepackage{caption}
@@ -15,16 +17,16 @@
 \language_package \usepackage[italian]{babel}
 \inputencoding utf8
 \fontencoding global
-\font_roman lmodern
-\font_sans lmss
-\font_typewriter lmtt
-\font_math auto
+\font_roman "lmodern" "default"
+\font_sans "lmss" "default"
+\font_typewriter "lmtt" "default"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -213,6 +215,10 @@ bla bla
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -229,6 +235,10 @@ bla bla
 
 \begin_layout Standard
 \begin_inset Newpage pagebreak
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -300,7 +310,7 @@ mancano foto
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="3">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="3.3cm">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="4.8cm">
@@ -818,7 +828,7 @@ mancano foto
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="8" columns="3">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="3.3cm">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="3.9cm">
@@ -1335,7 +1345,7 @@ inserire foto
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="3">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="3.3cm">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="3.9cm">
@@ -1543,11 +1553,7 @@ Condizione giuridica
 \begin_inset Text
 
 \begin_layout Plain Layout
-Demanio dello Stato?
-\end_layout
-
-\begin_layout Plain Layout
-Cassa Depositi e Prestiti?
+proprietà del Demanio dello Stato
 \end_layout
 
 \end_inset
@@ -1628,12 +1634,13 @@ dire cosa è successo tra il 96 e il 2013
 
 \begin_layout Standard
 Nell'Ottobre 2013 si apprende che a seguito della manovra del governo Villa
- Mirabellino è stata ceduta alla Cassa Depositi e Prestiti in attesa di
- essere venduta per rientrare nel tetto del 3% di rapporto deficif/PIL imposto
- dai trattati europei.
- Poche settimane dopo arriva la smentita: la villa non è nell'elenco delle
- strutture cedute alla CdP pubblicato in Gazzetta Ufficiale ma l'agenzia
- del Demanio all'interno del progetto 
+ Mirabellino è stata ceduta alla Cassa Depositi e Prestiti.
+ Sarebbe in attesa di essere venduta per rientrare nel tetto del 3% del
+ rapporto deficif/PIL imposto dai trattati europei.
+ Tuttavia poche settimane dopo arriva la smentita: la villa non è nell'elenco
+ delle strutture cedute alla CdP pubblicato in Gazzetta Ufficiale.
+ L'agenzia del Demanio starebbe però preparando all'interno del progetto
+ 
 \begin_inset Quotes fld
 \end_inset
 
@@ -1641,13 +1648,42 @@ Valore Paese
 \begin_inset Quotes frd
 \end_inset
 
- starebbe preparando un bando per una concessione di lunghezza compresa
- fra i sei e i cinquant'anni.
- I comitati in particolari si oppongono alla possibilità di una concessione
- a privati che ne farebbero presumibilmente un albergo di lusso, riproponendo
- il progetto di riportare la xiloteca Cormio all'interno della struttura,
- adibendo un museo delle Scienze naturali di concezione moderna, con spazi
- didattici e multimediali.
+ un bando per una concessione di lunghezza compresa fra i sei e i cinquant'anni.
+ I comitati in particolare si oppongono alla possibilità di una concessione
+ a privati, che ne farebbero presumibilmente un albergo di lusso, riproponendo
+ il progetto di riportare la xiloteca Cormio (una raccolta di legni istituita
+ nel 1935 da Raffaele Cormio e diventata famosa in tutto il mondo) all'interno
+ della struttura, allestendo un museo delle Scienze naturali di concezione
+ moderna, con spazi didattici e multimediali.
+ Al Mirabellino sarebbero dovute entrare anche le due robinie intrecciate
+ da Alessandro Manzoni come segno d’amore per la moglie Enrichetta nel giardino
+ della villa di Brusuglio, una gigantesca sequoia di 6 metri di diametro
+ e l’originale raccolta di libretti voluta dall’arciduca Ranieri d’Austria
+ con l’obiettivo di creare un nuovo tipo di erbario e documentare le varie
+ specie selezionate in quell’epoca nell’orto botanico nato in un angolo
+ del Parco.
+\end_layout
+
+\begin_layout Standard
+A Marzo 2016 l'attenzione cade nuovamente sulla villa che viene reinserita
+ nell'elenco delle proprietà che il demanio intende alienare.
+ Viene presentata al Mipim a Cannes, la più importante manifestazione del
+ settore immobiliare al mondo, e caricata sul portale 
+\shape italic
+InfinityRealEstate
+\shape default
+ che suggerisce come possibili destinazioni un albergo di lusso o una residenza
+ privata.
+ È di Aprile la dichiarazione della giunta che afferma che 
+\begin_inset Quotes fld
+\end_inset
+
+il Mirabellino non sarà un hotel
+\begin_inset Quotes frd
+\end_inset
+
+ e l'annuncio dell'apertura di una trattativa con il demanio per l'acquisto
+ dell'immobile.
 \end_layout
 
 \begin_layout Standard
@@ -1655,15 +1691,7 @@ Valore Paese
 status open
 
 \begin_layout Plain Layout
-altro progetto comitato
-\end_layout
-
-\begin_layout Plain Layout
-vendita su real estate
-\end_layout
-
-\begin_layout Plain Layout
-sindaco che dice no
+altro progetto comitato presentato a Borletti Buitoni
 \end_layout
 
 \end_inset
@@ -1692,7 +1720,7 @@ inserire foto
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="3">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="3.3cm">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="3.9cm">
@@ -1920,14 +1948,6 @@ Comune di Monza
 \end_inset
 
 
-\end_layout
-
-\begin_layout Paragraph
-La storia
-\end_layout
-
-\begin_layout Paragraph
-La vicenda recente
 \end_layout
 
 \begin_layout Standard
