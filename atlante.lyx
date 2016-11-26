@@ -4,12 +4,19 @@
 \begin_header
 \save_transient_properties true
 \origin unavailable
-\textclass book
+\textclass scrbook
 \begin_preamble
 \usepackage{caption}
-%\addtokomafont{disposition}{\rmfamily}
+\addtokomafont{disposition}{\rmfamily}
 \usepackage{microtype}
 \def\arraystretch{1.5}
+\usepackage[headsepline]{scrlayer-scrpage}
+\clearpairofpagestyles
+\ohead{\pagemark}
+\ihead{\headmark}
+\automark[]{chapter}
+\renewcommand*\pagemark{{\nobreakspace\thepage}}
+\addtokomafont{pageheadfoot}{\upshape}
 \end_preamble
 \use_default_options true
 \maintain_unincluded_children false
@@ -36,7 +43,7 @@
 \spacing single
 \use_hyperref false
 \papersize a4paper
-\use_geometry false
+\use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
 \use_package cancel 1
@@ -60,6 +67,9 @@
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 4.4cm
+\rightmargin 4.4cm
+\bottommargin 2.7cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -120,7 +130,7 @@ Distribuito sotto licenza CC BY-NC-SA 3.0
 
 \shape italic
 \begin_inset Graphics
-	filename by-nc-sa.eu.eps
+	filename by-nc-sa.eu.pdf
 	lyxscale 10
 
 \end_inset
@@ -226,7 +236,7 @@ bla bla
 \begin_inset Graphics
 	filename mappaSx.jpg
 	lyxscale 10
-	scale 30
+	scale 31
 
 \end_inset
 
@@ -249,7 +259,7 @@ bla bla
 \begin_inset Graphics
 	filename mappaDx.jpg
 	lyxscale 10
-	scale 30
+	scale 33
 
 \end_inset
 
@@ -616,6 +626,44 @@ Una storia simile a quella di un signore di Brugherio, Sangalli «Susciasang»
  a qualsiasi ora e servire le cliniche di tutta Monza e circondario.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ospedale vecchio-2.jpg
+	lyxscale 10
+	scale 63
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Una planimetria d'epoca
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Paragraph*
 L’aumento della richiesta e la costruzione di nuovi edifici
 \end_layout
@@ -662,6 +710,44 @@ I collegamenti fra un corpo e l’altro erano costituiti da pensiline aperte,
  «Il rischio era dunque che l’operazione andasse bene, ma che il paziente
  morisse di polmonite!».
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename DSC_0437.jpg
+	lyxscale 5
+	scale 11.5
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Uno dei corridoi all'aperto dell'ospedale
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Paragraph*
@@ -720,6 +806,41 @@ La storia dell’Ospedale Umberto I rimarrà legata per tutta la propria vita
  ovvero pagare, si vuole derivi dal Commendatore Brigatti, conosciuto per
  la generosità nel pagare le varie spese ordinarie necessarie alla vita
  quotidiana dell’Ospedale.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename DSC_0441.jpg
+	lyxscale 5
+	scale 11.4
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Un esempio dello stato di abbandono in cui versano alcune aree dell'ospedale
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Paragraph*
@@ -1607,6 +1728,40 @@ In seguito il suo uso venne dato ai Comuni di Milano e Monza e in particolare
  
 \end_layout
 
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename villa_mirabellino1.jpg
+	lyxscale 10
+	scale 49
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Villa Mirabellino in una stampa d'epoca
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Paragraph
 La vicenda recente
 \end_layout
@@ -1687,6 +1842,44 @@ il Mirabellino non sarà un hotel
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename Monza_Villa_Mirabellino_facciata.jpg
+	lyxscale 10
+	scale 43
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Villa Mirabellino nel suo stato attuale (Fonte: MbNews)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status open
 
@@ -1727,32 +1920,33 @@ unicum straordinario
 
 .
  Quando parliamo di dismissione e alienazione bisogna sempre tenere presente
- questo concetto: che non è come le altre aree dismesse a Monza.
- Storicamente Monza per molti decenni non ha capito che la sua peculiarità,
- che un tempo derivava anche dalla presenza della medio industria, nella
- storia del proprio territorio è il parco.
+ questo concetto: che non sono come le altre aree dismesse a Monza.
+ Per molti decenni Monza non ha capito che la sua peculiarità, che un tempo
+ derivava anche dalla presenza della medio industria, nella storia del proprio
+ territorio è il parco.
  Ci sono guide già della metà dell''800 come quella del Mezzotti, redatta
- in occasione della prima linea ferrata Milano-Monza che incentiva la visita
- del parco da cui si capisce subito che l'importanza della città è nel parco.
+ in occasione della prima linea ferrata Milano-Monza che incentivavano la
+ visita del parco per cui si capisce subito che l'importanza della città
+ è nel parco.
 \end_layout
 
 \begin_layout Standard
-La necessità è quella di un piano, che consideri il sistema parco-villa
- determinante per il futuro della città.
+La necessità è quella di un piano che consideri il sistema parco-villa determina
+nte per il futuro della città.
  C'è bisogno di un sistema istituzionale che assolva le funzioni di pianificazio
 ne di cui il consorzio non si preoccupa, occupandosi solo della gestione.
- Dovrebbe decidere che il meglio per le varie strutture del parco, sempre
- con ambiti di labilità ma anche con precisione e sulla base di queste decisioni
+ Dovrebbe decidere il meglio per le varie strutture del parco, sempre con
+ ambiti di labilità ma anche con precisione e sulla base di queste decisioni,
  fare del parco, della villa e dei giardini un evento straordinario dal
  punto di vista del contesto culturale, sociale ed economico.
 \end_layout
 
 \begin_layout Standard
-E' un'area dismessa molto complicata, con una storia che si è evoluta molto
- male anche perché il mirabellino appartiene allo stato.
+Il Mirabellino è un'area dismessa molto complicata, con una storia che si
+ è evoluta molto male anche perché appartiene allo stato.
  Si è litigato molto sulla destinazione ma un restauro si potrebbe fare
- al 90% senza sapere quale sarà l'uso del bene.
- Intanto salviamolo e con un 
+ per il 90% senza sapere quale sarà l'uso del bene.
+ Intanto salviamolo e poi con un 
 \begin_inset Quotes fld
 \end_inset
 
@@ -1761,7 +1955,7 @@ Piano Regalore del Parco
 \end_inset
 
  connesso alla città, ai paesi, al territorio nel suo insieme, alla valle
- del Lambro.
+ del Lambro decidiamo la destinazione.
 \end_layout
 
 \begin_layout Standard
@@ -1779,11 +1973,12 @@ one quando diventò residenza privilegiate della moglie di Eugenio di Beauharnai
 , creatore del parco, che da francese era ben cosciente di cosa stava facendo.
  Nascevano infatti in quel periodo i grandi parchi a partire dall'Inghilterra,
  o meglio dalla Cina, per poi arrivare in Francia invadendo poi l'Europa,
- dove i parchi sono diventati gli elementi distintivi del territorio segnandolo
- profondamente (come prima facevano le cattedrali) e modificando le abitudini
- e l'economia come fossero i nuovi castelli.
- Nel parco si mantenevano le essenze, come una natura che nel '700 era stata
- disboscata nell'intorno delle città a fini energetici, economici e agricoli.
+ dove sono diventati gli elementi distintivi del territorio.
+ Segnarono profondamente le città (come prima facevano le cattedrali) e
+ modificarono le abitudini e l'economia come fossero i nuovi castelli.
+ Nel parco si mantenevano le essenze, come per difendere una natura che
+ nel '700 era stata disboscata nell'intorno delle città a fini energetici,
+ economici e agricoli.
  In una certa misura la nascita dei parchi sembra alla Rousseau una difesa
  culturale di una natura che stava sparendo.
  Osserviamo infatti la differenza rispetto al giardino all'italiana che
@@ -1795,8 +1990,8 @@ al suolo
 \begin_inset Quotes frd
 \end_inset
 
-, una continuazione delle facciate ville con un disegno geometrico e poca
- verticalità.
+, una continuazione delle facciate delle ville con un disegno geometrico
+ e poca verticalità.
  Il parco all'inglese, sull'influsso cinese, riscopre la naturalità rifatta,
  ridifesa e riorganizata paesaggisticamente dall'uomo in una specie di 
 \begin_inset Quotes fld
@@ -1810,6 +2005,44 @@ parco domestico
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename 20131016-mirabellino.jpg
+	lyxscale 10
+	scale 54
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Il sistema paesaggistico Mirabello - Mirabellino (fonte: salviamoilpaesaggio.it)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 E' vergogno che il Mirabellino sia dismessa, ci sono state anche delle idee
  valide e sostengo che tutto il filone che ha carattere di aderenza a un
  concetto ambientale legato alla nascita dei parchi, dei giardini e della
@@ -1819,14 +2052,14 @@ E' vergogno che il Mirabellino sia dismessa, ci sono state anche delle idee
  Abbiamo un gioiello e l'abbiamo buttato nel cassetto di cucina al posto
  che portarlo.
  E' uno degli esempi più eclatanti e più gravi di abbandono.
- Ci sono delle stambe addirittura a colori di quando la facciata era ancora
+ Ci sono delle stampe addirittura a colori di quando la facciata era ancora
  barocca con tutta la corte di Eugenio e sullo sfondo il Resegone, per la
  corte Francese infatti avere luoghi nobili era fondamentale.
  Amalia aveva capito il valore della villa come luogo di salubrità, visto
  che in città cominciavano i problemi di sporcizia delle acque e di inquinamento
- ed erano ququasi scomparsi i boschi.
- Il parco era come una città nuova ideale con i suoi abitanti, chi coltivava,
- chi allevava gli animali.
+ ed erano quasi scomparsi i boschi.
+ Il parco era come una città nuova ideale con i suoi abitanti.
+ C'era chi coltivava, chi allevava gli animali, chi faceva il formaggio.
  L'uva Italia ad esempio è nata da esperimenti condotti all'interno del
  parco.
  Addirittura le donne delle corti si sporcavano le mani coltivando l'orto
@@ -1834,8 +2067,29 @@ E' vergogno che il Mirabellino sia dismessa, ci sono state anche delle idee
 \end_layout
 
 \begin_layout Standard
-Perciò sono contrario a a farci un albergo di lusso.
- Risistemo la villa, ma a che pro?
+Perciò sono contrario a fare del Mirabellino un albergo di lusso.
+ Risistemo la villa, ma a che pro? Bisogna stare attenti, il pericolo è
+ sempre in agguato! Per esempio lo stato a un certo punto lo ha messo in
+ vendita, ritenendo che restaurarlo costasse troppo.
+ Tuttavia non so chi potrebbe comprarlo dato il contesto urbanistico e le
+ norme che regolano le destinazioni.
+ Il museo del giardino proposto dai comitati sarebbe certamente un'idea
+ migliore, magari da 
+\begin_inset Quotes fld
+\end_inset
+
+spalmare
+\begin_inset Quotes frd
+\end_inset
+
+ anche su altri luoghi del parco creando un sistema multipolo.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -2451,6 +2705,18 @@ status collapsed
 
 \begin_layout Plain Layout
 completare bibliografia
+\end_layout
+
+\end_inset
+
+
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+La città dei valori 
+\shape italic
+di Francesca Rausa
 \end_layout
 
 \end_inset
