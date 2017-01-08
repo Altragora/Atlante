@@ -118,11 +118,40 @@ a cura di Altragorà
 con un saggio di Francesca Rausa
 \end_layout
 
+\begin_layout Publishers
+
+\size normal
+Versione 1.0
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \align center
 
 \shape italic
-Distribuito sotto licenza CC BY-NC-SA 3.0
+Distribuito sotto licenza CC BY-NC-SA 4.0
 \end_layout
 
 \begin_layout Standard
@@ -131,7 +160,7 @@ Distribuito sotto licenza CC BY-NC-SA 3.0
 \shape italic
 \begin_inset Graphics
 	filename by-nc-sa.eu.pdf
-	lyxscale 10
+	lyxscale 50
 
 \end_inset
 
@@ -222,6 +251,74 @@ Da queste esigenze è sorta la struttura definitiva del progetto: Un lavoro
  monzese.
 \end_layout
 
+\begin_layout Paragraph*
+Una nota di metodo
+\end_layout
+
+\begin_layout Standard
+Questo documento viene rilasciato secondo la licenza 
+\shape italic
+Creative Commons
+\shape default
+ 
+\shape italic
+BY-NC-SA 4.0.
+ 
+\shape default
+Questo significa che il nostro lavoro ha un autore (
+\shape italic
+attribution
+\shape default
+), noi, ma può essere redistribuito e modificato a patto di rilasciare l'artefat
+to con la stessa licenza (
+\shape italic
+share alike
+\shape default
+) e senza scopi commerciali (
+\shape italic
+non commercial
+\shape default
+).
+ Per maggiori dettagli si veda 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Per la redazione del documento si è fatto uso del programma di composizione
+ tipografica 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+LaTeX
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset space ~
+\end_inset
+
+abbinato con il software di controllo di versione Git.
+ Tutti i sorgenti sono disponibili alla pagina 
+\begin_inset CommandInset href
+LatexCommand href
+target "https://github.com/Altragora/Atlante"
+
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Section*
 Ringraziamenti
 \end_layout
@@ -231,8 +328,16 @@ Ringraziamo tutti coloro che hanno speso anche una minima parte del loro
  tempo per la riuscita di questo progetto.
  È soprattutto merito loro se dopo un lungo viaggio siamo arrivati alla
  destinazione, la pubblicazione.
- In particolare ringraziamo Luca che ci ha spiegato l'uso di alcuni strumenti
- e Arci Scuotivento che ci ha sostenuti dandoci ospitalità.
+ In particolare ringraziamo Luca, che ci ha spiegato l'uso di alcuni strumenti
+ e Arci Scuotivento, che ci ha sostenuti dandoci ospitalità.
+\end_layout
+
+\begin_layout Standard
+Menzione speciale meritano anche ovviamente tutte le persone che si sono
+ rese disponibili per le interviste, Rolando Villa, Guido Soroldoni, Alfredo
+ Viganò e Alessandro Raffa, che si è occupato personalmente della stesura
+ di una delle schede.
+ Questo lavoro non esisterebbe senza i loro preziosi contributi.
 \end_layout
 
 \begin_layout Standard
@@ -249,6 +354,36 @@ LatexCommand tableofcontents
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\color white
+Questa pagina è lasciata intenzionalmente bianca.
 \end_layout
 
 \begin_layout Standard
@@ -278,8 +413,80 @@ mainmatter
 L'atlante
 \end_layout
 
+\begin_layout Quotation
+URBANITÀ: Produzione della città da parte di chi la vive.
+\begin_inset Newline newline
+\end_inset
+
+(Franco La Cecla, Contro l’Urbanistica, Giulio Einaudi Editore, 2015).
+\end_layout
+
 \begin_layout Standard
-bla bla
+Con l’Atlante delle Aree Dismesse di Monza, Altragorà ha l’obiettivo di
+ avviare, con i cittadini monzesi, un percorso di Urbanità e di riappropriazione
+ dello spazio.
+\end_layout
+
+\begin_layout Standard
+Questo documento si presenta come il riassunto di un lavoro durato più di
+ un anno: tramite ricerca storiografica, analisi sul campo e interviste
+ a personaggi collegati ai vari luoghi, pensiamo di essere in grado di fornire
+ al cittadino la conoscenza del proprio spazio urbano, mediante uno strumento
+ volto a sviluppare il suo pensiero critico.
+ 
+\end_layout
+
+\begin_layout Standard
+Analizzando luoghi che erano parte del quotidiano, confrontandoci con coloro
+ che hanno vissuto in quel periodo, è stato possibile ricostruire parte
+ della storia monzese, capendo che cosa rappresentavano questi spazi per
+ i cittadini.
+ Pensiamo che la percezione di questi edifici da parte di chi abita la città
+ sia parte della loro stessa storia, e che sia quindi importante fare rivivere
+ la memoria e il valore degli stessi grazie a chi li conosceva direttamente
+ o a chi ne ha scritto e raccontato.
+ 
+\end_layout
+
+\begin_layout Standard
+L’obiettivo finale, dunque, dell’Atlante non è tanto quello di celebrare
+ il passato, ma la cittadinanza, poiché la ricostruzione storica e dei vissuti
+ di questi non-luoghi dismessi, ne svela il potenziale ed è la condizione
+ necessaria per una rigenerazione urbana operata con la volontà dei cittadini.
+\end_layout
+
+\begin_layout Standard
+Segue, su due pagine, una parziale mappatura delle aree dismesse monzesi,
+ sia pubbliche sia private.
+ Queste, evidenziate in rosso sulla mappa, sono state catalogate secondo
+ nome, estensione, anno di costruzione e funzione originaria, ma mancano
+ ancora molte informazioni! La storia di molti di questi luoghi è per noi
+ e per molti sconosciuta, ma è un patrimonio culturale di tutta la città.
+ 
+\end_layout
+
+\begin_layout Standard
+Lo strumento cartaceo certamente non è il più adatto a veicolare tali informazio
+ni, data la sua intrinseca staticità.
+ Una mappa interattiva è però disponibile online all'indirizzo: 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://www.altragora.it/atlante-urbano-delle-aree-dismesse/"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Essendo frutto di un lavoro aperto e collettivo è una mappa in continuo
+ divenire, che può essere aggiornata e modificata.
+ Invitiamo quindi tutti gli interessati a mandarci suggerimenti, idee, commenti
+ (anche 
+\family typewriter
+pull-request
+\family default
+ vanno bene).
 \end_layout
 
 \begin_layout Standard
@@ -334,20 +541,31 @@ Le schede di approfondimento
 \begin_layout Standard
 Presentiamo ora le schede di approfondimento di quattro aree al momento
  dismesse dislocate sul territorio monzese.
- La scelta è ricaduta su queste perché rappresentano bene l'insieme delle
- tipologie del dismesso presenti in città.
- Perciò abbiamo due strutture adibite a servizi, un ospedale e una scuola,
- una fabbrica e una villa all'interno del Parco.
+\end_layout
+
+\begin_layout Standard
+La scelta (non semplice) è ricaduta su queste perché rappresentano bene
+ l'insieme delle tipologie del dismesso presenti in città.
+ Infatti abbiamo scelto due strutture adibite a servizi, un ospedale e una
+ scuola, una fabbrica e una villa all'interno del Parco.
  Attraverso l'analisi della storia passata e recente di questi luoghi è
- possibile ricostruire in un certo senso la storia della città.
+ possibile ricostruire in un certo senso la storia e le storie della città.
 \end_layout
 
 \begin_layout Standard
 Le prime due schede sono in gran parte ricavate da interviste a persone
- che hanno direttamente vissuto quei luoghi mentre le ultime due sono frutto
- principalmente di una ricerca bibliografica e storiografica.
- La diversità dell'approccio ci sembrava interressante per analizzare da
- diverse angolature spazi diversi.
+ che hanno direttamente vissuto quei luoghi, che per loro erano il posto
+ di lavoro.
+ La scheda di Villa Mirabellino è costruita sull'intervista ad Alfredo Viganò,
+ architetto, urbanista e studioso della storia monzese e del parco che ha
+ partecipato in prima persona alla stesura di un Piano per la città.
+ Infine l'ultima scheda, redatta da Alessandro Raffa, ci fa vedere come
+ il dismesso possa diventare materia di studio.
+\end_layout
+
+\begin_layout Standard
+La diversità degli approcci ci è sembrata interressante per analizzare da
+ diverse angolature i diversi spazi.
 \end_layout
 
 \begin_layout Standard
@@ -359,16 +577,6 @@ Le prime due schede sono in gran parte ricavate da interviste a persone
 
 \begin_layout Section
 L'ospedale (vecchio) Umberto I
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-mancano foto
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -684,7 +892,7 @@ Una storia simile a quella di un signore di Brugherio, Sangalli «Susciasang»
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -770,7 +978,7 @@ I collegamenti fra un corpo e l’altro erano costituiti da pensiline aperte,
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -867,7 +1075,7 @@ La storia dell’Ospedale Umberto I rimarrà legata per tutta la propria vita
 placement H
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -980,6 +1188,44 @@ L’archivio è stato riordinato per materia, nonostante il signor Villa avesse
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename vecchio.jpg
+	lyxscale 10
+	scale 17.3
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Vetri rotti e abbandono
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -988,16 +1234,6 @@ L’archivio è stato riordinato per materia, nonostante il signor Villa avesse
 
 \begin_layout Section
 L'ex Civica Scuola Serale Artigiana Paolo Borsa
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-mancano foto
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -1328,6 +1564,44 @@ Nel primo dopo guerra, precisamente nel 1922, l’Istituto Superiore per le
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename IMG_3328r.JPG
+	lyxscale 10
+	scale 17.3
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Lo stato attuale dell'interno dell'istituto
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 La scuola, tramite l’artigianato, formava dei veri e propri professionisti
  in varie materie (plastica decorativa, ricamo, tessitura, decorazione,
  composizione, ferro battuto e tante altre specialità), le cui opere venivano
@@ -1382,6 +1656,44 @@ Dal 1873 fu diretta dal pittore Paolo Borsa da cui poi la scuola prese il
 
 \begin_layout Standard
 Nel 1980 venne poi annessa alle strutture dell’ISA.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename IMG_3278r.JPG
+	lyxscale 10
+	scale 17.3
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Particolare: un vetro rotto e le impalcature all'esterno
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Paragraph*
@@ -1497,6 +1809,44 @@ Le ultime notizie riguardo ai finanziamenti risalgono a Febbraio 2016, quando
 \end_layout
 
 \begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename IMG_6582r.JPG
+	lyxscale 10
+	scale 17.3
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Una visione d'insieme dell'esterno della struttura
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -1505,6 +1855,16 @@ Le ultime notizie riguardo ai finanziamenti risalgono a Febbraio 2016, quando
 
 \begin_layout Section
 Villa Mirabellino
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+rileggere
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1539,6 +1899,13 @@ viale Mirabellino
 \begin_inset Text
 
 \begin_layout Plain Layout
+\begin_inset Graphics
+	filename mirabellino.jpg
+	lyxscale 40
+	scale 24
+
+\end_inset
+
 
 \end_layout
 
@@ -1746,9 +2113,9 @@ La storia
 
 \begin_layout Standard
 Villa Mirabellino deve la sua costruzione al cardinale Angelo Maria Durini
- che la fece costruire nel 1776 dall'architetto Giulio Galliori come depandance
- di Villa Mirabello, anch'essa di sua proprietà e posizionata esattamente
- di fronte, collegata da un viale alberato.
+ che la fece costruire nel 1776 dall'architetto Giulio Galliori.
+ Voleva essere una depandance di Villa Mirabello, anch'essa di sua proprietà
+ e posizionata esattamente di fronte, collegata da un viale alberato.
  Dopo l'invasione napoleonica, nel 1805, la villa fu espropriata dal governo
  francese e venne spesso abitata dalla viceregina Augusta Amalia di Wittelsbach,
  moglie del viceré Eugenio Beauharnais, che ne fece restaurare l'interno.
@@ -1767,8 +2134,8 @@ In seguito il suo uso venne dato ai Comuni di Milano e Monza e in particolare
  l'amministrazione milanese vi insediò una colonia elioterapica, cambiando
  completamente la disposizione interna dei locali, lasciando inalterati
  solo i prospetti ed il giardino.
- Anche di quest'ultimo, un tempo adornato da piante locali ed esotiche oggi
- non resta nulla.
+ Di quest'ultimo, un tempo adornato da piante locali ed esotiche oggi non
+ resta nulla.
  
 \end_layout
 
@@ -1776,7 +2143,7 @@ In seguito il suo uso venne dato ai Comuni di Milano e Monza e in particolare
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -1848,12 +2215,12 @@ Valore Paese
 \end_inset
 
  un bando per una concessione di lunghezza compresa fra i sei e i cinquant'anni.
- I comitati in particolare si oppongono alla possibilità di una concessione
- a privati, che ne farebbero presumibilmente un albergo di lusso, riproponendo
- il progetto di riportare la xiloteca Cormio (una raccolta di legni istituita
- nel 1935 da Raffaele Cormio e diventata famosa in tutto il mondo) all'interno
- della struttura, allestendo un museo delle Scienze naturali di concezione
- moderna, con spazi didattici e multimediali.
+ I comitati in allarme si oppongono alla possibilità di una concessione
+ a privati, che ne farebbero presumibilmente un albergo di lusso.
+ Ripropongono il progetto di riportare la xiloteca Cormio (una raccolta
+ di legni istituita nel 1935 da Raffaele Cormio e diventata famosa in tutto
+ il mondo) all'interno della struttura, allestendo un museo delle Scienze
+ naturali di concezione moderna, con spazi didattici e multimediali.
  Al Mirabellino sarebbero dovute entrare anche le due robinie intrecciate
  da Alessandro Manzoni come segno d’amore per la moglie Enrichetta nel giardino
  della villa di Brusuglio, una gigantesca sequoia di 6 metri di diametro
@@ -1889,7 +2256,7 @@ il Mirabellino non sarà un hotel
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -1943,8 +2310,8 @@ Intervista ad Alfredo Viganò
 \begin_layout Standard
 Ciò che rende la situazione di Monza diversa da tutte le altre è la presenza
  di un grande parco unico in Italia e tra i pochi in Europa di queste dimensioni.
- E' un parco artificiale e progettato nel suo insieme, non è un luogo naturalist
-ico, anche se lo è diventato per le dimensioni.
+ È un parco artificiale e perciò progettato nel suo insieme, non è un luogo
+ naturalistico, anche se lo è diventato per le dimensioni.
  All'interno vi erano state collocate delle costruzioni che con l'uccisione
  del re e quindi con i primi del '900 sono andate degradandosi, mancando
  la presenza della mano reale.
@@ -1970,8 +2337,8 @@ unicum straordinario
  territorio è il parco.
  Ci sono guide già della metà dell''800 come quella del Mezzotti, redatta
  in occasione della prima linea ferrata Milano-Monza che incentivavano la
- visita del parco per cui si capisce subito che l'importanza della città
- è nel parco.
+ visita del parco.
+ Capiamo dunque che l'importanza della città è nel parco.
 \end_layout
 
 \begin_layout Standard
@@ -1983,23 +2350,6 @@ ne di cui il consorzio non si preoccupa, occupandosi solo della gestione.
  ambiti di labilità ma anche con precisione e sulla base di queste decisioni,
  fare del parco, della villa e dei giardini un evento straordinario dal
  punto di vista del contesto culturale, sociale ed economico.
-\end_layout
-
-\begin_layout Standard
-Il Mirabellino è un'area dismessa molto complicata, con una storia che si
- è evoluta molto male anche perché appartiene allo stato.
- Si è litigato molto sulla destinazione ma un restauro si potrebbe fare
- per il 90% senza sapere quale sarà l'uso del bene.
- Intanto salviamolo e poi con un 
-\begin_inset Quotes fld
-\end_inset
-
-Piano Regalore del Parco
-\begin_inset Quotes frd
-\end_inset
-
- connesso alla città, ai paesi, al territorio nel suo insieme, alla valle
- del Lambro decidiamo la destinazione.
 \end_layout
 
 \begin_layout Standard
@@ -2016,13 +2366,13 @@ si guardano
 one quando diventò residenza privilegiate della moglie di Eugenio di Beauharnais
 , creatore del parco, che da francese era ben cosciente di cosa stava facendo.
  Nascevano infatti in quel periodo i grandi parchi a partire dall'Inghilterra,
- o meglio dalla Cina, per poi arrivare in Francia invadendo poi l'Europa,
+ o meglio dalla Cina, per poi arrivare in Francia e invadendo poi l'Europa,
  dove sono diventati gli elementi distintivi del territorio.
  Segnarono profondamente le città (come prima facevano le cattedrali) e
  modificarono le abitudini e l'economia come fossero i nuovi castelli.
  Nel parco si mantenevano le essenze, come per difendere una natura che
- nel '700 era stata disboscata nell'intorno delle città a fini energetici,
- economici e agricoli.
+ nel '700 era stata addomesticata dall'uomo: disboscata nell'intorno delle
+ città a fini energetici, economici e agricoli.
  In una certa misura la nascita dei parchi sembra alla Rousseau una difesa
  culturale di una natura che stava sparendo.
  Osserviamo infatti la differenza rispetto al giardino all'italiana che
@@ -2049,10 +2399,27 @@ parco domestico
 \end_layout
 
 \begin_layout Standard
+Il Mirabellino è un'area dismessa molto complicata, con una storia che si
+ è evoluta molto male anche perché appartiene allo stato invece che al Consorzio.
+ Si è litigato molto sulla sua destinazione ma un restauro si potrebbe fare
+ per il 90% anche senza sapere quale sarà l'uso del bene.
+ Intanto salviamolo e poi con un 
+\begin_inset Quotes fld
+\end_inset
+
+Piano Regalore del Parco
+\begin_inset Quotes frd
+\end_inset
+
+ connesso alla città, ai paesi, alla valle del Lambro, al territorio nel
+ suo insieme, decidiamo la destinazione.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2069,7 +2436,11 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Il sistema paesaggistico Mirabello - Mirabellino (fonte: salviamoilpaesaggio.it)
+Il sistema paesaggistico Mirabello - Mirabellino
+\begin_inset Newline newline
+\end_inset
+
+(fonte: salviamoilpaesaggio.it)
 \end_layout
 
 \end_inset
@@ -2097,11 +2468,11 @@ E' vergogno che il Mirabellino sia dismessa, ci sono state anche delle idee
  che portarlo.
  E' uno degli esempi più eclatanti e più gravi di abbandono.
  Ci sono delle stampe addirittura a colori di quando la facciata era ancora
- barocca con tutta la corte di Eugenio e sullo sfondo il Resegone, per la
- corte Francese infatti avere luoghi nobili era fondamentale.
- Amalia aveva capito il valore della villa come luogo di salubrità, visto
- che in città cominciavano i problemi di sporcizia delle acque e di inquinamento
- ed erano quasi scomparsi i boschi.
+ barocca, con tutta la corte di Eugenio e sullo sfondo il Resegone.
+ Per la corte Francese infatti avere luoghi nobili era fondamentale, Amalia
+ aveva capito il valore della villa come luogo di salubrità, visto che in
+ città cominciavano i problemi di sporcizia delle acque e di inquinamento
+ oltre ad essere quasi scomparsi i boschi.
  Il parco era come una città nuova ideale con i suoi abitanti.
  C'era chi coltivava, chi allevava gli animali, chi faceva il formaggio.
  L'uva Italia ad esempio è nata da esperimenti condotti all'interno del
@@ -2112,9 +2483,9 @@ E' vergogno che il Mirabellino sia dismessa, ci sono state anche delle idee
 
 \begin_layout Standard
 Perciò sono contrario a fare del Mirabellino un albergo di lusso.
- Risistemo la villa, ma a che pro? Bisogna stare attenti, il pericolo è
- sempre in agguato! Per esempio lo stato a un certo punto lo ha messo in
- vendita, ritenendo che restaurarlo costasse troppo.
+ Risistemerei la villa, ma a che pro? Bisogna stare attenti, il pericolo
+ è sempre in agguato! Per esempio lo stato a un certo punto lo ha messo
+ in vendita, ritenendo che restaurarlo costasse troppo.
  Tuttavia non so chi potrebbe comprarlo dato il contesto urbanistico e le
  norme che regolano le destinazioni.
  Il museo del giardino proposto dai comitati sarebbe certamente un'idea
@@ -2127,6 +2498,44 @@ spalmare
 \end_inset
 
  anche su altri luoghi del parco creando un sistema multipolo.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename mirabellino2.jpg
+	lyxscale 10
+	scale 55
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Lo stato attuale degli interni di Villa Mirabellino (fonte: Il Giorno)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -2179,6 +2588,13 @@ via Fossati
 \begin_inset Text
 
 \begin_layout Plain Layout
+\begin_inset Graphics
+	filename FosLam.jpg
+	lyxscale 60
+	scale 60
+
+\end_inset
+
 
 \end_layout
 
@@ -2431,12 +2847,6 @@ Costruire nel costruito.
 \end_layout
 
 \begin_layout Paragraph
-
-\shape italic
-testo di Alesandro Raffa
-\end_layout
-
-\begin_layout Paragraph
 Il sito
 \end_layout
 
@@ -2463,7 +2873,7 @@ L’area racchiusa dal recinto industriale è pari a circa 50.000 metri quadri,
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2563,7 +2973,7 @@ Fondata nel 1845 dall’industriale monzese Luigi Fossati, era originariamente
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2630,7 +3040,7 @@ e (già esistenti nel 1922).
  Nel 1925 i padiglioni per la filatura ed il magazzino a nord risultano
  ampliati così come viene aggiunto un nuovo corpo di fabbrica all’edificio
  lineare a sud del lotto.
- E’ di questi anni anche il disegno dello spazio aperto verde e la definizione
+ È di questi anni anche il disegno dello spazio aperto verde e la definizione
  del recinto industriale.
  Negli anni Sessanta viene realizzato l’edificio lungo via Fossati e vengono
  saturati gli spazi tra le sale per la filatura del 1917 ed i corpi di fabbrica
@@ -2675,7 +3085,7 @@ o, ma, per diverse ragioni, nessuna fu realizzata.
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -2736,18 +3146,6 @@ status collapsed
 
 \begin_layout Plain Layout
 completare bibliografia
-\end_layout
-
-\end_inset
-
-
-\begin_inset Argument 1
-status open
-
-\begin_layout Plain Layout
-La città dei valori 
-\shape italic
-di Francesca Rausa
 \end_layout
 
 \end_inset
@@ -3182,6 +3580,36 @@ options "bibtotoc,plain"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\shape italic
+\color white
+Questa pagina è lasciata intenzionalmente bianca.
 \end_layout
 
 \end_body
